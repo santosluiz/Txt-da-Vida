@@ -19,3 +19,15 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 <strong>BLOGS<strong>
 - <a href="http://arquiteturadeinformacao.com/">Arquitetura da Informação - UX</a>
+
+
+<strong>INTERESSANTES<strong>
+- <a href="http://dontpad.com/">Seu Bloco de Notas online</a> obs: Crie uma url forte! hahaha
+- <a href="https://codeshare.io">Código Fonte ao vivo e com Videochamada</a>
+- <a href="https://appear.in/">Videochamada pelo navegador</a>
+
+
+
+<strong>LEARN ENGLISH<strong>
+- <a href="https://www.speaky.com">Speaky - Troca de Mensagens online</a>
+- <a href="https://howdoyou.do">Howdoyoudo - Troca de Mensagens online</a>
