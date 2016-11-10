@@ -15,7 +15,6 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://color.adobe.com/pt/create/color-wheel/" target="_blank">Paleta de Cores</a>
 - <a href="http://howtocenterincss.com/" target="_blank">Generator - Centralizar Div e/ou Texto</a>
 
-
 <strong>PERFORMACE<strong>
 - <a href="https://browserdiet.com/pt/" target="_blank">Como Perder Peso na Web</a>
 - <a href="http://blog.caelum.com.br/performance-web-no-mundo-real-porque-o-site-do-alura-voa/" target="_blank">Como acelerar o carregamento de uma página</a> 
@@ -27,6 +26,11 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 <strong>WORDPRESS<strong>
 - <a href="http://themecheck.org/" target="_blank">Analisa a Qualidade do seu Tema</a>
 - <a href="http://wpsecuritychecklist.org/br/items/" target="_blank">Checklist de Segurança</a>
+
+<strong>PLUGINS - WORDPRESS<strong>
+- <a href="https://wordpress.org/plugins/heatmap-for-wp/" target="_blank">Onde os Usuários Clicam no seu Site - Heatmap</a>
+- <a href="https://wordpress.org/plugins/chimpmate/" target="_blank">Assistente do MailChimp</a>
+
 
 <strong>INTERESSANTES<strong>
 - <a href="http://dontpad.com/" target="_blank">Seu Bloco de Notas online</a> obs: Crie uma url forte! hahaha
