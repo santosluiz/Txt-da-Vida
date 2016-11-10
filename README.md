@@ -6,6 +6,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 
 <strong>FRONT-END<strong>
+- <a href="https://github.com/woliveiras/front-end-career/blob/master/translations/pt-br/README.md" target="_blank">Carreira Front End</a>
 - <a href="http://tableless.com.br/dicas-de-seo-para-front-end/" target="_blank">Dicas de SEO para front-end</a>
 - <a href="http://wime.com.br/2015/08/21/8-efeitos-de-transicao-em-css3-css3-transitions/" target="_blank">8 Efeitos de Transição com CSS3</a>
 - <a href="https://daneden.github.io/animate.css/"  target="_blank">Library Fodástica para Animação em CSS3</a>
