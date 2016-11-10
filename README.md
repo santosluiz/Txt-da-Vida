@@ -32,6 +32,10 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://wordpress.org/plugins/chimpmate/" target="_blank">Assistente do MailChimp</a>
 
 
+<strong>E-MAIL MARKETING</strong>
+- <a href="https://www.mail-tester.com/" target="_blank">Teste o Nível de Reputação do seu E-mail</a>
+
+
 <strong>INTERESSANTES<strong>
 - <a href="http://dontpad.com/" target="_blank">Seu Bloco de Notas online</a> obs: Crie uma url forte! hahaha
 - <a href="https://codeshare.io" target="_blank">Código Fonte ao vivo e com Videochamada</a>
@@ -42,3 +46,5 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 <strong>LEARN ENGLISH<strong>
 - <a href="https://www.speaky.com" target="_blank">Speaky - Troca de Mensagens online</a>
 - <a href="https://howdoyou.do" target="_blank">Howdoyoudo - Troca de Mensagens online</a>
+
+
