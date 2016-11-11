@@ -15,10 +15,13 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://css3gen.com/" target="_blank">Generator CSS - Border, Box, Animation, Gradient e muito mais</a> 
 - <a href="https://color.adobe.com/pt/create/color-wheel/" target="_blank">Paleta de Cores</a>
 - <a href="http://howtocenterincss.com/" target="_blank">Generator - Centralizar Div e/ou Texto</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/cursor" target="_blank">Cursores Suportados pelos Browsers</a>
+- <a href="http://loopinfinito.com.br/2014/05/27/miniaturas-simplificadas-com-css3/" target="_blank">Redimensionamento de Imagens com CSS3</a>
 
 <strong>PERFORMACE<strong>
 - <a href="https://browserdiet.com/pt/" target="_blank">Como Perder Peso na Web</a>
 - <a href="http://blog.caelum.com.br/performance-web-no-mundo-real-porque-o-site-do-alura-voa/" target="_blank">Como acelerar o carregamento de uma página</a> 
+- <a href="https://www.sitepoint.com/12-ways-to-speed-up-your-wordpress-website/" target="_blank">12 Maneiras para Tornar seu Site WordPress Mais Rápido</a> 
 - <a href="https://developers.google.com/speed/pagespeed/" target="_blank">Analisa e Indica Melhorias de Performace - Google</a>
 - <a href="http://www.webpagetest.org/" target="_blank">Testar tempo de carregamento do seu site</a>
 - <a href="https://tinypng.com/" target="_blank">Otimizador de Imagens Free</a>
@@ -31,6 +34,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 <strong>PLUGINS - WORDPRESS<strong>
 - <a href="https://wordpress.org/plugins/heatmap-for-wp/" target="_blank">Onde os Usuários Clicam no seu Site - Heatmap</a>
 - <a href="https://wordpress.org/plugins/chimpmate/" target="_blank">Assistente do MailChimp</a>
+- <a href="https://wordpress.org/plugins/tweet-old-post/" target="_blank">Reviver Posts Antigos</a>
 
 
 <strong>E-MAIL MARKETING</strong>
