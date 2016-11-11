@@ -1,8 +1,12 @@
 # Txt-da-Vida
 Um agregado de links bastante úteis e que podem salvar vidas!
 
+
+
 <strong>BLOGS<strong>
 - <a href="http://arquiteturadeinformacao.com/" target="_blank">Arquitetura da Informação - UX</a>
+
+
 
 
 <strong>FRONT-END<strong>
@@ -19,6 +23,8 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://loopinfinito.com.br/2014/05/27/miniaturas-simplificadas-com-css3/" target="_blank">Redimensionamento de Imagens com CSS3</a>
 - <a href="http://blog.caelum.com.br/enriquecendo-seus-sistemas-com-microinteractions/" target="_blank">Enriquecendo a Interação do Usuário no seu Site/Sistema</a>
 
+
+
 <strong>PERFORMACE<strong>
 - <a href="https://browserdiet.com/pt/" target="_blank">Como Perder Peso na Web</a>
 - <a href="http://blog.caelum.com.br/performance-web-no-mundo-real-porque-o-site-do-alura-voa/" target="_blank">Como acelerar o carregamento de uma página</a> 
@@ -28,9 +34,13 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://tinypng.com/" target="_blank">Otimizador de Imagens Free</a>
 - <a href="http://herramientas-online.com/comprimir-descomprimir-css.html" target="_blank">Comprimir e Descomprimir CSS</a>
 
+
+
 <strong>WORDPRESS<strong>
 - <a href="http://themecheck.org/" target="_blank">Analisa a Qualidade do seu Tema</a>
 - <a href="http://wpsecuritychecklist.org/br/items/" target="_blank">Checklist de Segurança</a>
+
+
 
 <strong>PLUGINS - WORDPRESS<strong>
 - <a href="https://wordpress.org/plugins/heatmap-for-wp/" target="_blank">Onde os Usuários Clicam no seu Site - Heatmap</a>
@@ -40,6 +50,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 <strong>E-MAIL MARKETING</strong>
 - <a href="https://www.mail-tester.com/" target="_blank">Teste o Nível de Reputação do seu E-mail</a>
+
 
 
 <strong>INTERESSANTES<strong>
@@ -54,7 +65,15 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://www.speaky.com" target="_blank">Speaky - Troca de Mensagens online</a>
 - <a href="https://howdoyou.do" target="_blank">Howdoyoudo - Troca de Mensagens online</a>
 
+
+
 <strong>CURSOS FREE<strong>
 - <a href="https://www.sololearn.com" target="_blank">Solo Learn</a>
 - <a href="https://thenewboston.com/index.php" target="_blank">The New Boston</a>
 - <a href="http://www.rtfmanual.io/" target="_blank">RTF Manual</a>
+- <a href="https://www.codecademy.com/learn/all" target="_blank">Code Academy</a>
+
+
+<strong>SEO<strong>
+- <a href="https://validator.w3.org/" target="_blank">Validar HTML</a>
+- <a href="https://jigsaw.w3.org/css-validator/" target="_blank">Validar CSS</a>
