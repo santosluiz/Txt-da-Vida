@@ -3,7 +3,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 
 
-<strong>BLOGS<strong>
+<p style="pagging: 40px 0">BLOGS</p>
 - <a href="http://arquiteturadeinformacao.com/" target="_blank">Arquitetura da Informação - UX</a>
 
 
