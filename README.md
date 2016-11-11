@@ -3,11 +3,11 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 
 
-<strong>BLOGS</strong>
+##BLOGS
 - <a href="http://arquiteturadeinformacao.com/" target="_blank">Arquitetura da Informação - UX</a>
 
 
-<strong>FRONT-END<strong>
+##FRONT-END
 - <a href="https://github.com/woliveiras/front-end-career/blob/master/translations/pt-br/README.md" target="_blank">Carreira Front End</a>
 - <a href="http://tableless.com.br/dicas-de-seo-para-front-end/" target="_blank">Dicas de SEO para front-end</a>
 - <a href="http://wime.com.br/2015/08/21/8-efeitos-de-transicao-em-css3-css3-transitions/" target="_blank">8 Efeitos de Transição com CSS3</a>
@@ -23,7 +23,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 
 
-<strong>PERFORMACE<strong>
+##PERFORMACE
 - <a href="https://browserdiet.com/pt/" target="_blank">Como Perder Peso na Web</a>
 - <a href="http://blog.caelum.com.br/performance-web-no-mundo-real-porque-o-site-do-alura-voa/" target="_blank">Como acelerar o carregamento de uma página</a> 
 - <a href="https://www.sitepoint.com/12-ways-to-speed-up-your-wordpress-website/" target="_blank">12 Maneiras para Tornar seu Site WordPress Mais Rápido</a> 
@@ -34,24 +34,24 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 
 
-<strong>WORDPRESS<strong>
+##WORDPRESS
 - <a href="http://themecheck.org/" target="_blank">Analisa a Qualidade do seu Tema</a>
 - <a href="http://wpsecuritychecklist.org/br/items/" target="_blank">Checklist de Segurança</a>
 
 
 
-<strong>PLUGINS - WORDPRESS<strong>
+##PLUGINS - WORDPRESS
 - <a href="https://wordpress.org/plugins/heatmap-for-wp/" target="_blank">Onde os Usuários Clicam no seu Site - Heatmap</a>
 - <a href="https://wordpress.org/plugins/chimpmate/" target="_blank">Assistente do MailChimp</a>
 - <a href="https://wordpress.org/plugins/tweet-old-post/" target="_blank">Reviver Posts Antigos</a>
 
 
-<strong>E-MAIL MARKETING</strong>
+##E-MAIL MARKETING
 - <a href="https://www.mail-tester.com/" target="_blank">Teste o Nível de Reputação do seu E-mail</a>
 
 
 
-<strong>INTERESSANTES<strong>
+##INTERESSANTES
 - <a href="https://www.quora.com/How-do-I-become-a-freelance-web-developer" tarfet="_blank">Como se tornar um Freelancer</a>
 - <a href="http://dontpad.com/" target="_blank">Seu Bloco de Notas online</a> obs: Crie uma url forte! hahaha
 - <a href="https://codeshare.io" target="_blank">Código Fonte ao vivo e com Videochamada</a>
@@ -59,19 +59,19 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 
 
-<strong>LEARN ENGLISH<strong>
+##LEARN ENGLISH
 - <a href="https://www.speaky.com" target="_blank">Speaky - Troca de Mensagens online</a>
 - <a href="https://howdoyou.do" target="_blank">Howdoyoudo - Troca de Mensagens online</a>
 
 
 
-<strong>CURSOS FREE<strong>
+##CURSOS FREE
 - <a href="https://www.sololearn.com" target="_blank">Solo Learn</a>
 - <a href="https://thenewboston.com/index.php" target="_blank">The New Boston</a>
 - <a href="http://www.rtfmanual.io/" target="_blank">RTF Manual</a>
 - <a href="https://www.codecademy.com/learn/all" target="_blank">Code Academy</a>
 
 
-<strong>SEO<strong>
+##SEO
 - <a href="https://validator.w3.org/" target="_blank">Validar HTML</a>
 - <a href="https://jigsaw.w3.org/css-validator/" target="_blank">Validar CSS</a>
