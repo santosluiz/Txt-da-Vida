@@ -38,6 +38,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 
 <strong>INTERESSANTES<strong>
+- <a href="https://www.quora.com/How-do-I-become-a-freelance-web-developer" tarfet="_blank">Como se tornar um Freelancer</a>
 - <a href="http://dontpad.com/" target="_blank">Seu Bloco de Notas online</a> obs: Crie uma url forte! hahaha
 - <a href="https://codeshare.io" target="_blank">Código Fonte ao vivo e com Videochamada</a>
 - <a href="https://appear.in/" target="_blank">Videochamada pelo navegador</a>
