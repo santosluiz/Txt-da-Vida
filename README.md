@@ -17,6 +17,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://howtocenterincss.com/" target="_blank">Generator - Centralizar Div e/ou Texto</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/cursor" target="_blank">Cursores Suportados pelos Browsers</a>
 - <a href="http://loopinfinito.com.br/2014/05/27/miniaturas-simplificadas-com-css3/" target="_blank">Redimensionamento de Imagens com CSS3</a>
+- <a href="http://blog.caelum.com.br/enriquecendo-seus-sistemas-com-microinteractions/" target="_blank">Enriquecendo a Interação do Usuário no seu Site/Sistema</a>
 
 <strong>PERFORMACE<strong>
 - <a href="https://browserdiet.com/pt/" target="_blank">Como Perder Peso na Web</a>
@@ -53,4 +54,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://www.speaky.com" target="_blank">Speaky - Troca de Mensagens online</a>
 - <a href="https://howdoyou.do" target="_blank">Howdoyoudo - Troca de Mensagens online</a>
 
-
+<strong>CURSOS FREE<strong>
+- <a href="https://www.sololearn.com" target="_blank">Solo Learn</a>
+- <a href="https://thenewboston.com/index.php" target="_blank">The New Boston</a>
+- <a href="http://www.rtfmanual.io/" target="_blank">RTF Manual</a>
