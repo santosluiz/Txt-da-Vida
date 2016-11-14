@@ -47,6 +47,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://dontpad.com/" target="_blank">Seu Bloco de Notas online</a> obs: Crie uma url forte! hahaha
 - <a href="https://codeshare.io" target="_blank">Código Fonte ao vivo e com Videochamada</a>
 - <a href="https://appear.in/" target="_blank">Videochamada pelo navegador</a>
+- <a href="http://blog.umbler.com/br/ferramentas-para-freelancers-dicas-para-um-trabalho-mais-eficaz/">Canivete Suíco do Freelancer</a>
 
 
 ##BLOGS
