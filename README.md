@@ -3,10 +3,6 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 
 
-##BLOGS
-- <a href="http://arquiteturadeinformacao.com/" target="_blank">Arquitetura da Informação - UX</a>
-
-
 ##FRONT-END
 - <a href="https://github.com/woliveiras/front-end-career/blob/master/translations/pt-br/README.md" target="_blank">Carreira Front End</a>
 - <a href="http://tableless.com.br/dicas-de-seo-para-front-end/" target="_blank">Dicas de SEO para front-end</a>
@@ -46,11 +42,6 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://wordpress.org/plugins/tweet-old-post/" target="_blank">Reviver Posts Antigos</a>
 
 
-##E-MAIL MARKETING
-- <a href="https://www.mail-tester.com/" target="_blank">Teste o Nível de Reputação do seu E-mail</a>
-
-
-
 ##INTERESSANTES
 - <a href="https://www.quora.com/How-do-I-become-a-freelance-web-developer" tarfet="_blank">Como se tornar um Freelancer</a>
 - <a href="http://dontpad.com/" target="_blank">Seu Bloco de Notas online</a> obs: Crie uma url forte! hahaha
@@ -58,11 +49,19 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://appear.in/" target="_blank">Videochamada pelo navegador</a>
 
 
+##BLOGS
+- <a href="http://arquiteturadeinformacao.com/" target="_blank">Arquitetura da Informação - UX</a>
+
+
+##JOBS
+- <a href="https://hangarwp.com/" target="_blank">Hangar WP</a>
+- <a href="http://trampos.co/" target="_blank">Trampos</a>
+- <a href="http://www.wphired.com/" target="_blank">WP Hired</a>
+- <a href="http://jobs.wordpress.net/" target="_blank">Jobs.WordPress</a>
 
 ##LEARN ENGLISH
 - <a href="https://www.speaky.com" target="_blank">Speaky - Troca de Mensagens online</a>
 - <a href="https://howdoyou.do" target="_blank">Howdoyoudo - Troca de Mensagens online</a>
-
 
 
 ##CURSOS FREE
@@ -75,3 +74,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 ##SEO
 - <a href="https://validator.w3.org/" target="_blank">Validar HTML</a>
 - <a href="https://jigsaw.w3.org/css-validator/" target="_blank">Validar CSS</a>
+
+
+##E-MAIL MARKETING
+- <a href="https://www.mail-tester.com/" target="_blank">Teste o Nível de Reputação do seu E-mail</a>
