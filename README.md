@@ -48,6 +48,8 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://codeshare.io" target="_blank">Código Fonte ao vivo e com Videochamada</a>
 - <a href="https://appear.in/" target="_blank">Videochamada pelo navegador</a>
 - <a href="http://blog.umbler.com/br/ferramentas-para-freelancers-dicas-para-um-trabalho-mais-eficaz/">Canivete Suíco do Freelancer</a>
+- <a href="http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/">Basicão sobre Git e GitHub</a>
+- <a href="http://felipeelia.com.br/wordpress-tudo-sobre-widgets/">Tudo sobre Widgets - WordPress</a>
 
 
 ##BLOGS
@@ -66,6 +68,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 
 ##CURSOS FREE
+- <a href="http://willianjusten.teachable.com/p/git-e-github-para-iniciantes">Git e GitHub - Willian Justen</a>
 - <a href="https://www.sololearn.com" target="_blank">Solo Learn</a>
 - <a href="https://thenewboston.com/index.php" target="_blank">The New Boston</a>
 - <a href="http://www.rtfmanual.io/" target="_blank">RTF Manual</a>
