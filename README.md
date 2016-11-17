@@ -12,6 +12,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://thenounproject.com" target="_blank">Ícones Free em PNG e SVG</a>
 - <a href="http://css3gen.com/" target="_blank">Generator CSS - Border, Box, Animation, Gradient e muito mais</a> 
 - <a href="https://color.adobe.com/pt/create/color-wheel/" target="_blank">Paleta de Cores</a>
+- <a href="https://flatuicolors.com/">Paleta de Cores 2</a>
 - <a href="http://howtocenterincss.com/" target="_blank">Generator - Centralizar Div e/ou Texto</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/cursor" target="_blank">Cursores Suportados pelos Browsers</a>
 - <a href="http://loopinfinito.com.br/2014/05/27/miniaturas-simplificadas-com-css3/" target="_blank">Redimensionamento de Imagens com CSS3</a>
