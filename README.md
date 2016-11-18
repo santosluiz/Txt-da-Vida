@@ -43,6 +43,10 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://wordpress.org/plugins/chimpmate/" target="_blank">Assistente do MailChimp</a>
 - <a href="https://wordpress.org/plugins/tweet-old-post/" target="_blank">Reviver Posts Antigos</a>
 
+##LIBS - BIBLIOTECAS
+- <a href="http://ricostacruz.com/nprogress/">Barra de Carregamento Like Youtube</a>
+- <a href="http://idangero.us/swiper/">Slider Responsivo - Completãão</a>
+- <a herf="http://www.runningcoder.org/jquerytypeahead/demo">Auto Complete para Inputs de Pesquisa</a>
 
 ##INTERESSANTES
 - <a href="https://www.quora.com/How-do-I-become-a-freelance-web-developer" tarfet="_blank">Como se tornar um Freelancer</a>
