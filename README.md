@@ -46,7 +46,9 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 ##LIBS - BIBLIOTECAS
 - <a href="http://ricostacruz.com/nprogress/">Barra de Carregamento Like Youtube</a>
 - <a href="http://idangero.us/swiper/">Slider Responsivo - Completãão</a>
+- <a href="https://blueimp.github.io/Gallery/">Galeria de Imagens-Vídeos Responsivo</a>
 - <a herf="http://www.runningcoder.org/jquerytypeahead/demo">Auto Complete para Inputs de Pesquisa</a>
+
 
 ##INTERESSANTES
 - <a href="https://www.quora.com/How-do-I-become-a-freelance-web-developer" tarfet="_blank">Como se tornar um Freelancer</a>
@@ -55,6 +57,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://appear.in/" target="_blank">Videochamada pelo navegador</a>
 - <a href="http://blog.umbler.com/br/ferramentas-para-freelancers-dicas-para-um-trabalho-mais-eficaz/">Canivete Suíco do Freelancer</a>
 - <a href="http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/">Basicão sobre Git e GitHub</a>
+- <a href="https://uncss-online.com">Remover CSS Inútil</a>
 - <a href="http://felipeelia.com.br/wordpress-tudo-sobre-widgets/">Tudo sobre Widgets - WordPress</a>
 
 
