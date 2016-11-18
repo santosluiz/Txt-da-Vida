@@ -21,11 +21,12 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 
 ##PERFORMACE
+- <a href="https://developers.google.com/speed/pagespeed/" target="_blank">Google - Analisa e Indica Melhorias de Performace</a>
+- <a href="http://www.webpagetest.org/" target="_blank">Testar tempo de carregamento do seu site</a>
+- <a href="https://website.grader.com">Testa a performace geral do seu site</a>
 - <a href="https://browserdiet.com/pt/" target="_blank">Como Perder Peso na Web</a>
 - <a href="http://blog.caelum.com.br/performance-web-no-mundo-real-porque-o-site-do-alura-voa/" target="_blank">Como acelerar o carregamento de uma página</a> 
 - <a href="https://www.sitepoint.com/12-ways-to-speed-up-your-wordpress-website/" target="_blank">12 Maneiras para Tornar seu Site WordPress Mais Rápido</a> 
-- <a href="https://developers.google.com/speed/pagespeed/" target="_blank">Analisa e Indica Melhorias de Performace - Google</a>
-- <a href="http://www.webpagetest.org/" target="_blank">Testar tempo de carregamento do seu site</a>
 - <a href="https://tinypng.com/" target="_blank">Otimizador de Imagens Free</a>
 - <a href="http://herramientas-online.com/comprimir-descomprimir-css.html" target="_blank">Comprimir e Descomprimir CSS</a>
 
