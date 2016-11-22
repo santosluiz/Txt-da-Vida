@@ -63,6 +63,8 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://felipeelia.com.br/wordpress-tudo-sobre-widgets/">Tudo sobre Widgets - WordPress</a>
 - <a href="http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-github/">Criando Arquivos e Enviando para seu GitHub</a>
 
+##VÍDEOS - PALESTRAS
+- <a href="http://wordpress.tv">WordCamps(eventos) WordPress</a>
 
 ##BLOGS
 - <a href="http://arquiteturadeinformacao.com/" target="_blank">Arquitetura da Informação - UX</a>
