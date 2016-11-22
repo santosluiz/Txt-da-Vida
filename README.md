@@ -1,7 +1,8 @@
 # Txt-da-Vida
 Um agregado de links bastante úteis e que podem salvar vidas!
 
-
+##LEARN
+- <a href="https://www.freecodecamp.com">Aprenda Desenvolvimento Realizando Desafios - Magnífico!</a>
 
 ##FRONT-END
 - <a href="https://github.com/woliveiras/front-end-career/blob/master/translations/pt-br/README.md" target="_blank">Carreira Front End</a>
