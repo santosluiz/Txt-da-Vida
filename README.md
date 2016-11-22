@@ -60,6 +60,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/">Basicão sobre Git e GitHub</a>
 - <a href="https://uncss-online.com">Remover CSS Inútil</a>
 - <a href="http://felipeelia.com.br/wordpress-tudo-sobre-widgets/">Tudo sobre Widgets - WordPress</a>
+- <a href="http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-github/">Criando Arquivos e Enviando para seu GitHub</a>
 
 
 ##BLOGS
