@@ -35,6 +35,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 ##WORDPRESS
 - <a href="http://themecheck.org/" target="_blank">Analisa a Qualidade do seu Tema</a>
 - <a href="http://wpsecuritychecklist.org/br/items/" target="_blank">Checklist de Segurança</a>
+- <a href="https://yoast.com/wordpress-seo/">SEO para WordPress
 
 
 
