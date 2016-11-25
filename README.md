@@ -6,6 +6,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 ##FRONT-END
 - <a href="https://github.com/woliveiras/front-end-career/blob/master/translations/pt-br/README.md" target="_blank">Carreira Front End</a>
+- <a href="http://tympanus.net/codrops/">Projetos Incríveis Front-End</a>
 - <a href="http://tableless.com.br/dicas-de-seo-para-front-end/" target="_blank">Dicas de SEO para front-end</a>
 - <a href="http://wime.com.br/2015/08/21/8-efeitos-de-transicao-em-css3-css3-transitions/" target="_blank">8 Efeitos de Transição com CSS3</a>
 - <a href="https://daneden.github.io/animate.css/"  target="_blank">Library Fodástica para Animação em CSS3</a>
@@ -18,6 +19,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/cursor" target="_blank">Cursores Suportados pelos Browsers</a>
 - <a href="http://loopinfinito.com.br/2014/05/27/miniaturas-simplificadas-com-css3/" target="_blank">Redimensionamento de Imagens com CSS3</a>
 - <a href="http://blog.caelum.com.br/enriquecendo-seus-sistemas-com-microinteractions/" target="_blank">Enriquecendo a Interação do Usuário no seu Site/Sistema</a>
+- <a href="http://desenvolvimentoparaweb.com/css/flexbox/">Post Fodástico sobre Flexbox</a>
 
 
 
@@ -36,7 +38,8 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 ##WORDPRESS
 - <a href="http://themecheck.org/" target="_blank">Analisa a Qualidade do seu Tema</a>
 - <a href="http://wpsecuritychecklist.org/br/items/" target="_blank">Checklist de Segurança</a>
-- <a href="https://yoast.com/wordpress-seo/">SEO para WordPress
+- <a href="https://yoast.com/wordpress-seo/">SEO para WordPress</a>
+- <a href="https://justfreethemes.com/">Temas Free</a>
 
 
 
@@ -98,3 +101,9 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 ##E-MAIL MARKETING
 - <a href="https://www.mail-tester.com/" target="_blank">Teste o Nível de Reputação do seu E-mail</a>
+
+##Bancos de Imagens Free
+- <a href="https://www.pexels.com/">Pexels</a>
+- <a href="https://pixabay.com/">Pixabay</a>
+- <a href="https://unsplash.com/">Unsplash</a>
+
