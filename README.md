@@ -53,6 +53,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://idangero.us/swiper/">Slider Responsivo - Completãão</a>
 - <a href="https://blueimp.github.io/Gallery/">Galeria de Imagens-Vídeos Responsivo</a>
 - <a herf="http://www.runningcoder.org/jquerytypeahead/demo">Auto Complete para Inputs de Pesquisa</a>
+- <a href="https://github.com/cferdinandi/smooth-scroll">Scrool</a>
 
 
 ##INTERESSANTES
@@ -102,7 +103,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 ##E-MAIL MARKETING
 - <a href="https://www.mail-tester.com/" target="_blank">Teste o Nível de Reputação do seu E-mail</a>
 
-##Bancos de Imagens Free
+##BANCOS DE IMAGENS - Free
 - <a href="https://www.pexels.com/">Pexels</a>
 - <a href="https://pixabay.com/">Pixabay</a>
 - <a href="https://unsplash.com/">Unsplash</a>
