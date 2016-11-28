@@ -40,6 +40,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://wpsecuritychecklist.org/br/items/" target="_blank">Checklist de Segurança</a>
 - <a href="https://yoast.com/wordpress-seo/">SEO para WordPress</a>
 - <a href="https://justfreethemes.com/">Temas Free</a>
+- < href="http://speedrak.com/blog/how-to-move-javascripts-to-the-footer-in-wordpress/">Javascript no Footer</a>
 
 
 
