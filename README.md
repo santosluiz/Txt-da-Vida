@@ -12,7 +12,8 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://wime.com.br/2015/08/21/8-efeitos-de-transicao-em-css3-css3-transitions/" target="_blank">8 Efeitos de Transição com CSS3</a>
 - <a href="https://daneden.github.io/animate.css/"  target="_blank">Library Fodástica para Animação em CSS3</a>
 - <a href="http://loading.io/" target="_blank">Generator .gif loading</a>
-- <a href="http://thenounproject.com" target="_blank">Ícones Free em PNG e SVG</a>
+- <a href="http://www.freepik.com/">FreePik - Ícones Free em PNG e SVG</a>
+- <a href="http://thenounproject.com" target="_blank">The Noun Project - Ícones Free em PNG e SVG</a>
 - <a href="http://css3gen.com/" target="_blank">Generator CSS - Border, Box, Animation, Gradient e muito mais</a> 
 - <a href="https://color.adobe.com/pt/create/color-wheel/" target="_blank">Paleta de Cores</a>
 - <a href="https://flatuicolors.com/">Paleta de Cores 2</a>
