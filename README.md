@@ -42,7 +42,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://wpsecuritychecklist.org/br/items/" target="_blank">Checklist de Segurança</a>
 - <a href="https://yoast.com/wordpress-seo/">SEO para WordPress</a>
 - <a href="https://justfreethemes.com/">Temas Free</a>
-- < href="http://speedrak.com/blog/how-to-move-javascripts-to-the-footer-in-wordpress/">Javascript no Footer</a>
+- <a href="http://speedrak.com/blog/how-to-move-javascripts-to-the-footer-in-wordpress/">Javascript no Footer</a>
 
 
 
@@ -55,7 +55,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://ricostacruz.com/nprogress/">Barra de Carregamento Like Youtube</a>
 - <a href="http://idangero.us/swiper/">Slider Responsivo - Completãão</a>
 - <a href="https://blueimp.github.io/Gallery/">Galeria de Imagens-Vídeos Responsivo</a>
-- <a herf="http://www.runningcoder.org/jquerytypeahead/demo">Auto Complete para Inputs de Pesquisa</a>
+- <a href="http://www.runningcoder.org/jquerytypeahead/demo">Auto Complete para Inputs de Pesquisa</a>
 - <a href="https://github.com/cferdinandi/smooth-scroll">Scrool</a>
 
 
