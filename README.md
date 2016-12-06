@@ -40,6 +40,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://yoast.com/wordpress-seo/">SEO para WordPress</a>
 - <a href="https://justfreethemes.com/">Temas Free</a>
 - <a href="http://speedrak.com/blog/how-to-move-javascripts-to-the-footer-in-wordpress/">Javascript no Footer</a>
+- <a href="http://matthewhorne.me/defer-async-wordpress-scripts/">Async e Defer</a>
 
 
 
