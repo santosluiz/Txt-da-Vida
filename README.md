@@ -95,6 +95,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 ##CURSOS FREE
 - <a href="http://willianjusten.teachable.com/p/git-e-github-para-iniciantes">Git e GitHub - Willian Justen</a>
+- <a href="https://www.codeschool.com/">Code School</a>
 - <a href="https://www.sololearn.com" target="_blank">Solo Learn</a>
 - <a href="https://thenewboston.com/index.php" target="_blank">The New Boston</a>
 - <a href="http://www.rtfmanual.io/" target="_blank">RTF Manual</a>
