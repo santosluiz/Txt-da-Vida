@@ -30,6 +30,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://blog.caelum.com.br/performance-web-no-mundo-real-porque-o-site-do-alura-voa/" target="_blank">Como acelerar o carregamento de uma página</a> 
 - <a href="https://www.sitepoint.com/12-ways-to-speed-up-your-wordpress-website/" target="_blank">12 Maneiras para Tornar seu Site WordPress Mais Rápido</a> 
 - <a href="https://tinypng.com/" target="_blank">Otimizador de Imagens Free</a>
+- <a href="https://jakearchibald.github.io/svgomg/" target="_blank">Otimizar SVG</a>
 - <a href="http://herramientas-online.com/comprimir-descomprimir-css.html" target="_blank">Comprimir e Descomprimir CSS</a>
 
 
