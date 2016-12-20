@@ -89,6 +89,8 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://trampos.co/" target="_blank">Trampos</a>
 - <a href="http://www.wphired.com/" target="_blank">WP Hired</a>
 - <a href="http://jobs.wordpress.net/" target="_blank">Jobs.WordPress</a>
+- <a href="https://br.jooble.org">Jooble</a>
+- <a href="https://prolancer.com.br">Prolancer</a>
 
 ##LEARN ENGLISH
 - <a href="https://www.speaky.com" target="_blank">Speaky - Troca de Mensagens online</a>
