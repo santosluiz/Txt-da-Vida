@@ -22,7 +22,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://blog.caelum.com.br/enriquecendo-seus-sistemas-com-microinteractions/" target="_blank">Enriquecendo a Interação do Usuário no seu Site/Sistema</a>
 
 
-##PERFORMACE
+##PERFORMANCE
 - <a href="https://developers.google.com/speed/pagespeed/" target="_blank">Google - Analisa e Indica Melhorias de Performace</a>
 - <a href="http://www.webpagetest.org/" target="_blank">WebPageTest - Testar tempo de carregamento do seu site</a>
 - <a href="https://website.grader.com">Grader - Testa a performace geral do seu site</a>
@@ -99,12 +99,12 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 ##CURSOS FREE
 - <a href="http://willianjusten.teachable.com/p/git-e-github-para-iniciantes">Git e GitHub - Willian Justen</a>
+- <a href="https://www.codecademy.com/learn/all" target="_blank">Code Academy</a>
+- <a href="http://cauequeiroz.com.br/cursos-gratuitos-udacity/">Udacity</a>
 - <a href="https://www.codeschool.com/free">Code School</a>
 - <a href="https://www.sololearn.com" target="_blank">Solo Learn</a>
 - <a href="https://thenewboston.com/index.php" target="_blank">The New Boston</a>
 - <a href="http://www.rtfmanual.io/" target="_blank">RTF Manual</a>
-- <a href="https://www.codecademy.com/learn/all" target="_blank">Code Academy</a>
-
 
 ##SEO
 - <a href="https://validator.w3.org/" target="_blank">Validar HTML</a>
