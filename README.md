@@ -32,6 +32,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://tinypng.com/" target="_blank">Otimizador de Imagens Free</a>
 - <a href="https://jakearchibald.github.io/svgomg/" target="_blank">Otimizar SVG</a>
 - <a href="http://herramientas-online.com/comprimir-descomprimir-css.html" target="_blank">Comprimir e Descomprimir CSS</a>
+- <a href="https://jonassebastianohlsson.com/criticalpathcssgenerator/">Above the Fold Generator</a>
 
 
 
