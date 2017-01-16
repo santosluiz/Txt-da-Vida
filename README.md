@@ -2,7 +2,7 @@
 Um agregado de links bastante úteis e que podem salvar vidas!
 
 ##LEARN
-- <a href="https://www.freecodecamp.com">FreeCodeCamp - Aprenda a Desenvolver Realizando Desafios</a>curs
+- <a href="https://www.freecodecamp.com">FreeCodeCamp - Aprenda a Desenvolver Realizando Desafios</a>
 - <a href="https://www.codewars.com/">CodeWars - Aprenda a Desenvolver Realizando Desafios</a>
 
 ##CURSOS FREE
