@@ -68,6 +68,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://blueimp.github.io/Gallery/">Galeria de Imagens-Vídeos Responsivo</a>
 - <a href="http://www.runningcoder.org/jquerytypeahead/demo">Auto Complete para Inputs de Pesquisa</a>
 - <a href="https://github.com/cferdinandi/smooth-scroll">Scrool</a>
+- <a href="https://www.amcharts.com/">Visualização/Exibição de Dados</a>
 
 
 ##INTERESSANTES
