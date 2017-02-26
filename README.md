@@ -68,7 +68,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://blueimp.github.io/Gallery/">Galeria de Imagens-Vídeos Responsivo</a>
 - <a href="http://www.runningcoder.org/jquerytypeahead/demo">Auto Complete para Inputs de Pesquisa</a>
 - <a href="https://github.com/cferdinandi/smooth-scroll">Scrool</a>
-- <a href="https://www.amcharts.com/">Visualização/Exibição de Dados</a>
+- <a href="https://www.amcharts.com/">Exibição de Gráficos</a>
 
 
 ##INTERESSANTES
@@ -94,7 +94,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 ##VÍDEOS - PALESTRAS
 - <a href="http://free-time.github.io/">Enciclopédia das Palestras de Desenvolvimento!</a>
-- <a href="http://wordpress.tv">WordCamps(eventos) WordPress</a>
+- <a href="http://wordpress.tv">WordCamps (eventos) WordPress</a>
 
 ##JOBS
 - <a href="https://hangarwp.com/">Hangar WP</a>
