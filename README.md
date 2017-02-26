@@ -82,6 +82,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://radio.garden/">Rádio Online</a>
 
 ##GENERATORS
+- <a href="http://realfavicongenerator.net/">Favicon</a>
 - <a href="http://loading.io/">Generator .gif loading</a>
 - <a href="http://www.freepik.com/">FreePik - Ícones Free em PNG e SVG</a>
 - <a href="http://thenounproject.com">The Noun Project - Ícones Free em PNG e SVG</a>
