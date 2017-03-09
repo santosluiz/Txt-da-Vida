@@ -90,6 +90,8 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://color.adobe.com/pt/create/color-wheel/">Adobe - Paleta de Cores</a>
 - <a href="https://flatuicolors.com/">Flat Ui - Paleta de Cores</a>
 - <a href="http://howtocenterincss.com/">Generator - Centralizar Div e/ou Texto</a>
+- <a href="https://dummyimage.com/">Gerar Imagens para seu Projeto</a>
+- <a href="http://lorempixel.com.br/">Gerar Imagens para seu Projeto - Versão BR</a>
 
 
 ##VÍDEOS - PALESTRAS
