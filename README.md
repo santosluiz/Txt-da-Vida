@@ -4,7 +4,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 ##LEARN
 - <a href="https://www.freecodecamp.com">FreeCodeCamp - Aprenda a Desenvolver Realizando Desafios</a>
 - <a href="https://www.codewars.com/">CodeWars - Aprenda a Desenvolver Realizando Desafios</a>
-- <a href="https://www.tutorialspoint.com/tutorialslibrary.htm">Tutoriais de 1001 tecnologias diferentes - 5stars</a>
+- <a href="https://www.tutorialspoint.com/tutorialslibrary.htm">Tutoriais de 1001 tecnologias diferentes</a>
 
 ##CURSOS FREE
 - <a href="https://medium.com/@rodrigo0921/list%C3%A3o-de-cursos-online-gratuitos-187e94fd0415#.l9u3lbh8h">Pacotão de Cursos Onlines - 5 Estrelas</a>
