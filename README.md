@@ -100,6 +100,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://wordpress.tv">WordCamps (eventos) WordPress</a>
 
 ##JOBS
+- <a href="https://weworkremotely.com/">We Work Remotely</a>
 - <a href="https://hangarwp.com/">Hangar WP</a>
 - <a href="http://trampos.co/">Trampos</a>
 - <a href="http://www.wphired.com/">WP Hired</a>
