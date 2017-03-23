@@ -112,6 +112,15 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://www.speaky.com">Speaky - Troca de Mensagens online</a>
 - <a href="https://howdoyou.do">Howdoyoudo - Troca de Mensagens online</a>
 
+##BANCOS DE IMAGENS - Free
+- <a href="https://www.pexels.com/">Pexels</a>
+- <a href="https://pixabay.com/">Pixabay</a>
+- <a href="https://unsplash.com/">Unsplash</a>
+
+##MARKETING DIGITAL
+- <a href="http://answerthepublic.com">Sugestão de Palavras-Chave</a>
+
+
 ##SEO
 - <a href="https://validator.w3.org/">Validar HTML</a>
 - <a href="https://jigsaw.w3.org/css-validator/">Validar CSS</a>
@@ -121,7 +130,5 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 ##E-MAIL MARKETING
 - <a href="https://www.mail-tester.com/">Teste o Nível de Reputação do seu E-mail</a>
 
-##BANCOS DE IMAGENS - Free
-- <a href="https://www.pexels.com/">Pexels</a>
-- <a href="https://pixabay.com/">Pixabay</a>
-- <a href="https://unsplash.com/">Unsplash</a>
+
+
