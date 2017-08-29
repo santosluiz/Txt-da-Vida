@@ -73,6 +73,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 
 ##INTERESSANTES
+- <a href="http://coderstoolbox.net">Conversor de Textos</a>
 - <a href="https://www.quora.com/How-do-I-become-a-freelance-web-developer" tarfet="_blank">Como se tornar um Freelancer</a>
 - <a href="http://dontpad.com/">Seu Bloco de Notas online</a> obs: Crie uma url forte! hahaha
 - <a href="https://codeshare.io">Código Fonte ao vivo e com Videochamada</a>
