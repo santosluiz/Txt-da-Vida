@@ -8,7 +8,8 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 ## CURSOS FREE
 - <a href="https://medium.com/@rodrigo0921/list%C3%A3o-de-cursos-online-gratuitos-187e94fd0415#.l9u3lbh8h">Pacotão de Cursos Onlines - 5 Estrelas</a>
-- <a href="http://willianjusten.teachable.com/p/git-e-github-para-iniciantes">Git e GitHub - Willian Justen</a>
+- <a href="https://www.udemy.com/git-e-github-para-iniciantes/">Git e GitHub - Willian Justen</a>
+- <a href="https://www.udemy.com/criando-sites-estaticos-com-jekyll/">Blogs Estáticos com Jekyll</a>
 - <a href="https://www.codecademy.com/learn/all">Code Academy</a>
 - <a href="http://cauequeiroz.com.br/cursos-gratuitos-udacity/">Udacity</a>
 - <a href="https://www.codeschool.com/free">Code School</a>
