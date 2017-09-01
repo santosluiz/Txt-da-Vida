@@ -1,14 +1,15 @@
 # Txt-da-Vida
 Um agregado de links bastante úteis e que podem salvar vidas!
 
-##LEARN
+## LEARN
 - <a href="https://www.freecodecamp.com">FreeCodeCamp - Aprenda a Desenvolver Realizando Desafios</a>
 - <a href="https://www.codewars.com/">CodeWars - Aprenda a Desenvolver Realizando Desafios</a>
 - <a href="https://www.tutorialspoint.com/tutorialslibrary.htm">Tutoriais de 1001 tecnologias diferentes</a>
 
-##CURSOS FREE
+## CURSOS FREE
 - <a href="https://medium.com/@rodrigo0921/list%C3%A3o-de-cursos-online-gratuitos-187e94fd0415#.l9u3lbh8h">Pacotão de Cursos Onlines - 5 Estrelas</a>
-- <a href="http://willianjusten.teachable.com/p/git-e-github-para-iniciantes">Git e GitHub - Willian Justen</a>
+- <a href="https://www.udemy.com/git-e-github-para-iniciantes/">Git e GitHub - Willian Justen</a>
+- <a href="https://www.udemy.com/criando-sites-estaticos-com-jekyll/">Blogs Estáticos com Jekyll</a>
 - <a href="https://www.codecademy.com/learn/all">Code Academy</a>
 - <a href="http://cauequeiroz.com.br/cursos-gratuitos-udacity/">Udacity</a>
 - <a href="https://www.codeschool.com/free">Code School</a>
@@ -16,14 +17,14 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://thenewboston.com/index.php">The New Boston</a>
 - <a href="http://www.rtfmanual.io/">RTF Manual</a>
 
-##TUTORIAIS
+## TUTORIAIS
 - <a href="http://desenvolvimentoparaweb.com/css/flexbox/">Post Fodástico sobre Flexbox</a>
 - <a href="http://loopinfinito.com.br/2014/05/27/miniaturas-simplificadas-com-css3/">Redimensionamento de Imagens com CSS3</a>
 - <a href="http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-github/">Criando Arquivos e Enviando para seu GitHub</a>
 - <a href="http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/">Basicão sobre Git e GitHub</a>
 
 
-##FRONT-END
+## FRONT-END
 - <a href="https://github.com/woliveiras/front-end-career/blob/master/translations/pt-br/README.md">Carreira Front End</a>
 - <a href="http://tympanus.net/codrops/">Projetos Incríveis Front-End</a>
 - <a href="http://tableless.com.br/dicas-de-seo-para-front-end/">Dicas de SEO para front-end</a>
@@ -32,7 +33,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://blog.caelum.com.br/enriquecendo-seus-sistemas-com-microinteractions/">Enriquecendo a Interação do Usuário no seu Site/Sistema</a>
 
 
-##PERFORMANCE
+## PERFORMANCE
 - <a href="https://developers.google.com/speed/pagespeed/">Google - Analisa e Indica Melhorias de Performace</a>
 - <a href="http://www.webpagetest.org/">WebPageTest - Testar tempo de carregamento do seu site</a>
 - <a href="https://website.grader.com">Grader - Testa a performace geral do seu site</a>
@@ -46,7 +47,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 
 
-##WORDPRESS
+## WORDPRESS
 - <a href="http://themecheck.org/">Analisa a Qualidade do seu Tema</a>
 - <a href="http://wpsecuritychecklist.org/br/items/">Checklist de Segurança</a>
 - <a href="https://yoast.com/wordpress-seo/">SEO para WordPress</a>
@@ -56,13 +57,13 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 
 
 
-##PLUGINS - WORDPRESS
+## PLUGINS - WORDPRESS
 - <a href="https://wordpress.org/plugins/heatmap-for-wp/">Onde os Usuários Clicam no seu Site - Heatmap</a>
 - <a href="https://wordpress.org/plugins/chimpmate/">Assistente do MailChimp</a>
 - <a href="https://wordpress.org/plugins/tweet-old-post/">Reviver Posts Antigos</a>
 
 
-##LIBS - BIBLIOTECAS
+## LIBS - BIBLIOTECAS
 - <a href="https://daneden.github.io/animate.css/">Library Fodástica para Animação em CSS3</a>
 - <a href="http://ricostacruz.com/nprogress/">Barra de Carregamento Like Youtube</a>
 - <a href="http://idangero.us/swiper/">Slider Responsivo - Completãão</a>
@@ -72,7 +73,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://www.amcharts.com/">Exibição de Gráficos</a>
 
 
-##INTERESSANTES
+## INTERESSANTES
 - <a href="http://coderstoolbox.net">Conversor de Textos</a>
 - <a href="https://www.quora.com/How-do-I-become-a-freelance-web-developer" tarfet="_blank">Como se tornar um Freelancer</a>
 - <a href="http://dontpad.com/">Seu Bloco de Notas online</a> obs: Crie uma url forte! hahaha
@@ -83,7 +84,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://felipeelia.com.br/wordpress-tudo-sobre-widgets/">Tudo sobre Widgets - WordPress</a>
 - <a href="http://radio.garden/">Rádio Online</a>
 
-##GENERATORS
+## GENERATORS
 - <a href="http://realfavicongenerator.net/">Favicon</a>
 - <a href="http://loading.io/">Generator .gif loading</a>
 - <a href="http://www.freepik.com/">FreePik - Ícones Free em PNG e SVG</a>
@@ -97,11 +98,11 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://lorempixel.com.br/">Gerar Imagens para seu Projeto - Versão BR</a>
 
 
-##VÍDEOS - PALESTRAS
+## VÍDEOS - PALESTRAS
 - <a href="http://free-time.github.io/">Enciclopédia das Palestras de Desenvolvimento!</a>
 - <a href="http://wordpress.tv">WordCamps (eventos) WordPress</a>
 
-##JOBS
+## JOBS
 - <a href="https://weworkremotely.com/">We Work Remotely</a>
 - <a href="https://hangarwp.com/">Hangar WP</a>
 - <a href="http://trampos.co/">Trampos</a>
@@ -110,26 +111,26 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://br.jooble.org">Jooble</a>
 - <a href="https://prolancer.com.br">Prolancer</a>
 
-##LEARN ENGLISH
+## LEARN ENGLISH
 - <a href="https://www.speaky.com">Speaky - Troca de Mensagens online</a>
 - <a href="https://howdoyou.do">Howdoyoudo - Troca de Mensagens online</a>
 
-##BANCOS DE IMAGENS - Free
+## BANCOS DE IMAGENS - Free
 - <a href="https://www.pexels.com/">Pexels</a>
 - <a href="https://pixabay.com/">Pixabay</a>
 - <a href="https://unsplash.com/">Unsplash</a>
 
-##MARKETING DIGITAL
+## MARKETING DIGITAL
 - <a href="http://answerthepublic.com">Sugestão de Palavras-Chave</a>
 
 
-##SEO
+## SEO
 - <a href="https://validator.w3.org/">Validar HTML</a>
 - <a href="https://jigsaw.w3.org/css-validator/">Validar CSS</a>
 - <a href="https://www.xml-sitemaps.com">Sitemap Generator</a>
 
 
-##E-MAIL MARKETING
+## E-MAIL MARKETING
 - <a href="https://www.mail-tester.com/">Teste o Nível de Reputação do seu E-mail</a>
 
 
