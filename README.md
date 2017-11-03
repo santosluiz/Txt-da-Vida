@@ -82,6 +82,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="https://appear.in/">Videochamada pelo navegador</a>
 - <a href="http://blog.umbler.com/br/ferramentas-para-freelancers-dicas-para-um-trabalho-mais-eficaz/">Canivete Suíco do Freelancer</a>
 - <a href="https://uncss-online.com">Remover CSS Inútil</a>
+- <a href="https://www.designer.io">Photoshop Online</a>
 - <a href="http://felipeelia.com.br/wordpress-tudo-sobre-widgets/">Tudo sobre Widgets - WordPress</a>
 - <a href="http://radio.garden/">Rádio Online</a>
 
