@@ -18,6 +18,7 @@ Um agregado de links bastante úteis e que podem salvar vidas!
 - <a href="http://www.rtfmanual.io/">RTF Manual</a>
 
 ## TUTORIAIS
+- <a href="https://githowto.com/pt-BR">Tutorial sobre Git</a>
 - <a href="http://desenvolvimentoparaweb.com/css/flexbox/">Post Fodástico sobre Flexbox</a>
 - <a href="http://loopinfinito.com.br/2014/05/27/miniaturas-simplificadas-com-css3/">Redimensionamento de Imagens com CSS3</a>
 - <a href="http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-github/">Criando Arquivos e Enviando para seu GitHub</a>
